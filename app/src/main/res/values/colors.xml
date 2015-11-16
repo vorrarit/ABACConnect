@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#F57C00</color>
+    <color name="textColor">#FFF</color>
+    <color name="indigo700">#303F9F</color>
+    <color name="indigo200">#9FA8DA</color>
+    <color name="indigo400">#5C6BC0</color>
+    <color name="lightBle500">#03A9F4</color>
+    <color name="nav_item_icon_tint_color">#333</color>
+    <color name="nav_item_text_color">#333</color>
+</resources>

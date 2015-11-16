@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/navItem0"
+            android:title="Home Page"/>
+        <item
+            android:id="@+id/navItem1"
+            android:icon="@mipmap/ic_profile_64"
+            android:title="Profile"/>
+        <item
+            android:id="@+id/navItem2"
+            android:icon="@mipmap/ic_work_profile_64"
+            android:title="Work Profile"/>
+
+        <item
+            android:id="@+id/navItem3"
+            android:icon="@mipmap/ic_unofficial_transcript_64"
+            android:title="Unofficial Transcript"/>
+
+        <item
+            android:id="@+id/navItem4"
+            android:icon="@mipmap/ic_graduation_photo_64"
+            android:title="Graduate Photo"/>
+
+        <item
+            android:id="@+id/navItem5"
+            android:icon="@mipmap/ic_my_business_64"
+            android:title="Business Profile"/>
+
+        <item
+            android:id="@+id/navItem6"
+            android:icon="@mipmap/ic_my_deal_64"
+            android:title="My Deals"/>
+
+        <item
+            android:id="@+id/navItem7"
+            android:icon="@mipmap/ic_settings_64"
+            android:title="Settings"/>
+
+        <item
+            android:id="@+id/navItem8"
+            android:title="Log Out"/>
+    </group>
+
+</menu>
